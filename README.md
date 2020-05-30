@@ -16,4 +16,5 @@ https://dortania.github.io/OpenCore-Desktop-Guide/
 opencore版本：0.5.6
 
 EFI目录结构：
+
 ![](img/Xnip2020-05-30_22-37-41.png)

@@ -17,4 +17,4 @@ opencore版本：0.5.6
 
 EFI目录结构：
 
-![](img/Xnip2020-05-30_22-37-41.png)
+![](img/Xnip-0-5-9.png)
